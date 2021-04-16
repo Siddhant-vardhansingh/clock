@@ -52,4 +52,7 @@ I have created this simple project using HTML-5, CSS-3, and Javascript and Boots
 <br>
 <br>
 <br>
+
+## Snippet 
+
 <img align="center" src="https://github.com/Siddhant-vardhansingh/clock/blob/master/img/Capture.PNG?raw=true">
